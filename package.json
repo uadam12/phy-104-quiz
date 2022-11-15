@@ -1,5 +1,6 @@
 {
-  "name": "phy-104-quiz",
+  "homepage":"http://uadam12.github.io/phy-104-quiz",
+  "name": "phy-104-quiz/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -34,5 +35,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
   }
 }
