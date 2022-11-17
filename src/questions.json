@@ -1,0 +1,840 @@
+[
+  {
+    "id": "1",
+    "question": "The functional difference between a lens and a mirror is that a lens",
+    "options": {
+      "a": "reflects a beam of light while a mirror refracts it",
+      "b": "refracts a beam of light while a mirror reflects it",
+      "c": "absorbs incident rays while a mirror transmit them",
+      "d": "transmits incidents ray while a mirror absorbs them"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "2",
+    "question": "After reflection from the concave mirror, rays of light from the sun converges",
+    "options": {
+      "a": "at the radius of curvature",
+      "b": "at the focus",
+      "c": "beyond the radius of curvature",
+      "d": "between the focus and radius of curvature"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "3",
+    "question": "In a ray diagram for a thin converging lens, a ray that is not parallel to the optic axis but passes through the optic center will",
+    "options": {
+      "a": "pass through undeviated",
+      "b": "pass through the center of curvature after refraction",
+      "c": "emerge parallel to the principal axis",
+      "d": "pass through the principal focus after refraction"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "4",
+    "question": "Which of the following is true for the image formed by a convex mirror?",
+    "options": {
+      "a": "i only",
+      "b": "i and ii only",
+      "c": "ii and iii only",
+      "d": "all five"
+    },
+    "correct": "d",
+    "statement": [
+      "the image is always virtual",
+      "the image is always erect",
+      "the image lies between pole and focus",
+      "the image is never magnified",
+      "the focus length is negative"
+    ]
+  },
+  {
+    "id": "5",
+    "question": "Convex mirror are used as driving mirrors because images formed are?",
+    "options": {
+      "a": "erect, virtual and diminished",
+      "b": "erect, real and diminished",
+      "c": "erect, virtual and magnified",
+      "d": "inverted virtual and diminished"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "6",
+    "question": "A convex mirror is used as driving mirror because",
+    "options": {
+      "a": "I and III only",
+      "b": "I and II only",
+      "c": "II and III only",
+      "d": "I, II and III only"
+    },
+    "correct": "b",
+    "statement": [
+      "Its image is erect",
+      "It has a large field of view",
+      "It has a long focal length."
+    ]
+  },
+  {
+    "id": "7",
+    "question": "At which position should an object be placed in front of a concave mirror in order to obtain an image which is of the same size as the object?",
+    "options": {
+      "a": "at the centre of curvature",
+      "b": "at the principal focus",
+      "c": "between the pole and principal focus",
+      "d": "between the centre of curvature and principal focus"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "8",
+    "question": "To produce an enlarged and erect image with a concave mirror, the object must be positioned",
+    "options": {
+      "a": "at the principal focus",
+      "b": "beyond the Centre of curvature",
+      "c": "between the principal focus and the centre of the curvature",
+      "d": "between the principal focus and the pole"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "9",
+    "question": "When an object is placed very close to the pole of a concave mirror, the virtual image obtained is",
+    "options": {
+      "a": "diminished and upright",
+      "b": "diminished and inverted",
+      "c": "enlarged and inverted",
+      "d": "enlarged and upright"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "10",
+    "question": "The image formed by a concave mirror is real, inverted and magnified, when object is placed",
+    "options": {
+      "a": "at the focus",
+      "b": "at the centre of curvature",
+      "c": "beyond the centre of curvature",
+      "d": "between the centre of curvature and the focus"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "11",
+    "question": "A boy on looking into a mirror observed that his face appeared to have grown bigger. The boy must have been looking at a",
+    "options": {
+      "a": "convex mirror with his face at the focus",
+      "b": "concave mirror with his face between the focus and the mirror",
+      "c": "concave mirror with his face at the focus",
+      "d": "convex mirror with his face between the focus and the mirror"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "12",
+    "question": "At what position will an object be placed in front of a concave mirror in order to obtain an image at infinity?",
+    "options": {
+      "a": "At the pole of the mirror",
+      "b": "At the principal focus",
+      "c": "at the center of the curvature",
+      "d": "Between the principal focus and the center of curvature"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "13",
+    "question": "An object O lies at a distance m in front of concave mirror of focal length f. If m < f, then the final image obtained will be",
+    "options": {
+      "a": "virtual and diminished",
+      "b": "magnified and erect",
+      "c": "real and inverted",
+      "d": "diminished and erect"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "14",
+    "question": "For a concave mirror to form a real diminished image, the object must be placed",
+    "options": {
+      "a": "behind the mirror",
+      "b": "between the mirror and its focus",
+      "c": "between the focus and the centre of curvature",
+      "d": "at the centre of curvature",
+      "e": "at a distance greater than the radius of curvature"
+    },
+    "correct": "e"
+  },
+  {
+    "id": "15",
+    "question": "The functional difference between a lens and a mirror is that a lens",
+    "options": {
+      "a": "reflects a beam of light while a mirror refracts it",
+      "b": "refracts a beam of light while a mirror reflects it",
+      "c": "absorbs incident rays while a mirror transmit them",
+      "d": "transmits incidents ray while a mirror absorbs them"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "16",
+    "question": "The phenomenon which occurs when light changes direction as it passes from one medium to another is called",
+    "options": {
+      "a": "Reflection",
+      "b": "Polarization",
+      "c": "Interference",
+      "d": "Refraction"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "17",
+    "question": "An object placed at the bottom of a wall full of clear water appears closer to the surface due to",
+    "options": {
+      "a": "Diffraction",
+      "b": "Reflection",
+      "c": "Refraction",
+      "d": "Polarization"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "18",
+    "question": "Refraction of lights differs from reflection in that, in refraction. Which of the following statements is/are correct for refraction?",
+    "options": {
+      "a": "i only",
+      "b": "i and ii only",
+      "c": "ii and iii only",
+      "d": "i and iii only"
+    },
+    "correct": "b",
+    "statement": [
+      "at least two media are involved",
+      "there is a change in the direction of the ray",
+      "the speed of the ray changes."
+    ]
+  },
+  {
+    "id": "19",
+    "question": "When a ray of light passes from water to glass, it is",
+    "options": {
+      "a": "bent away from the normal",
+      "b": "bent towards the normal",
+      "c": "totally internally reflected",
+      "d": "absorbed by the glass",
+      "e": "broken into a pure spectrum"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "20",
+    "question": "Total internal reflection occurs when light moves from",
+    "options": {
+      "a": "a dense medium to a less dense medium",
+      "b": "air to water",
+      "c": "water to glass",
+      "d": "a less dense to a dense medium"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "21",
+    "question": "Which of the statements following is/are correct? For total internal reflection to occur,",
+    "options": {
+      "a": "I only",
+      "b": "II only",
+      "c": "III only",
+      "d": "I and II only"
+    },
+    "correct": "d",
+    "statement": [
+      "light must be travelling from an optically more dense to an optically less dense medium.",
+      "The angle of incidence in the denser medium must be greater than its critical angle.",
+      "the angle of refraction in the less dense medium must be equal to 90\u00b0."
+    ]
+  },
+  {
+    "id": "22",
+    "question": "Which of following the statements are conditions for total internal reflection to occur?",
+    "options": {
+      "a": "I & II only",
+      "b": "I & III only",
+      "c": "II & III only",
+      "d": "II only"
+    },
+    "correct": "c",
+    "statement": [
+      "Rays of light travel from a less dense medium to a denser medium.",
+      "The Angle of incidence is greater than critical angle.",
+      "Rays of light travel from a denser medium to a less dense medium."
+    ]
+  },
+  {
+    "id": "23",
+    "question": "Which of the following conditions are necessary and sufficient for total internal reflection to take place at the boundary between two optical media?",
+    "options": {
+      "a": "I and ii only",
+      "b": "ii and iii only",
+      "c": "ii and iv only",
+      "d": "I and iii only",
+      "e": "ii and iv only"
+    },
+    "correct": "d",
+    "statement": [
+      "light is passing from optically denser medium to optically less dense medium.",
+      "Light is passing from optically less dense medium to optically denser medium.",
+      "Angle of incidence is greater.",
+      "Angle of incidence is lesser"
+    ]
+  },
+  {
+    "id": "24",
+    "question": "Which of the following particles are termed nucleons in a neutral atom?",
+    "options": {
+      "a": "protons and neutrons",
+      "b": "neutrons and electrons",
+      "c": "protons and electrons",
+      "d": "protons, electrons and neutrons"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "25",
+    "question": "Isotopes are nuclei which have",
+    "options": {
+      "a": "the same number of neutrons and electrons",
+      "b": "equal number of electrons and protons",
+      "c": "the same atomic number but different number of neutrons",
+      "d": "the same number of total particles"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "26",
+    "question": "Which of the following statements is CORRECT?",
+    "options": {
+      "a": "i only",
+      "b": "ii only",
+      "c": "iii only",
+      "d": "i and ii only",
+      "e": "ii and iii only"
+    },
+    "correct": "b",
+    "statement": [
+      "the mass number is equal to the total number of protons and electrons in an atom.",
+      "the atomic number is equal to the number of protons in an atom.",
+      "the number of electrons in an atom is equal to the total number of protons and neutrons in the nucleus."
+    ]
+  },
+  {
+    "id": "27",
+    "question": "The mass of a nucleus is the",
+    "options": {
+      "a": "total number of its proton & neutrons",
+      "b": "number of its protons",
+      "c": "mass of its electrons",
+      "d": "total number of its protons & electrons"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "28",
+    "question": "Which of the following statements are true in the structure of atoms?",
+    "options": {
+      "a": "the atoms of the different element differ only in the number of protons and electrons",
+      "b": "the number of protons equals the number of electrons",
+      "c": "atoms are constructed according to the plan of our solar system",
+      "d": "all of the above",
+      "e": "A and C only"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "29",
+    "question": "Which of the following statements are true of isotopes?",
+    "options": {
+      "a": "I and II only",
+      "b": "I and III",
+      "c": "II and III only",
+      "d": "I, II and III only"
+    },
+    "correct": "b",
+    "statement": [
+      "isotopes of an element have the same chemical properties because they have the same number of electrons.",
+      "isotopes of an element are normally seperated using physical properties",
+      "isotopes of an element have the same number of protons in their nuclei."
+    ]
+  },
+  {
+    "id": "30",
+    "question": "Which of the following statement(s) is/are correct about the isotopes of an elements? They have the same",
+    "options": {
+      "a": "I only",
+      "b": "II only",
+      "c": "I and II only",
+      "d": "I and III only"
+    },
+    "correct": "d",
+    "statement": [
+      "chemical properties",
+      "nucleon number",
+      "proton number"
+    ]
+  },
+  {
+    "id": "31",
+    "question": "The mass of a proton is approximately equal to that of",
+    "options": {
+      "a": "an \u03b1 -particle",
+      "b": "a \u03b2 -particle",
+      "c": "\u03b3 -ray",
+      "d": "an electron"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "32",
+    "question": "The number of neutrons contained in the nucleus\u00a0_92^238?U\u00a0is",
+    "options": {
+      "a": "92",
+      "b": "146",
+      "c": "238",
+      "d": "330"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "33",
+    "question": "What is the number of neutrons in the Uranium isotope _92^238?X?",
+    "options": {
+      "a": "92",
+      "b": "146",
+      "c": "238",
+      "d": "330",
+      "e": "119"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "34",
+    "question": "Which of the following statements about radioactivity are true?",
+    "options": {
+      "a": "I, ii, iii, iv only",
+      "b": "iv and v only",
+      "c": "I, ii, and iii only",
+      "d": "I, ii, and v only"
+    },
+    "correct": "c",
+    "statement": [
+      "Alpha particle is positively charged",
+      "Beta particles is negatively charged",
+      "Gamma ray is neutral",
+      "Beta particle has the same mass as helium atom",
+      "Gamma ray is charged."
+    ]
+  },
+  {
+    "id": "35",
+    "question": "Which of the following can not be deflected by both electric and magnetic field?",
+    "options": {
+      "a": "Gamma rays",
+      "b": "Alpha particle",
+      "c": "Wave particle",
+      "d": "Beta particle"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "36",
+    "question": "Which of the following radiations cannot be deflected by a magnetic field?",
+    "options": {
+      "a": "\u03b1",
+      "b": "\u03b2",
+      "c": "\u03b3",
+      "d": "\u03b2 and \u03b3",
+      "e": "none of them"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "37",
+    "question": "Which of the following is most strongly deflected by a magnetic field",
+    "options": {
+      "a": "\u03b1 -particle",
+      "b": "\u03b2-particle",
+      "c": "\u03b3 \u2013rays",
+      "d": "X- rays"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "38",
+    "question": "Which of the following is TRUE of the particles emitted in radioactive disintegration?",
+    "options": {
+      "a": "the alpha particle is the helium nucleus H",
+      "b": "the alpha particle is lighter than the beta particle",
+      "c": "the alpha particle is deflected more than the beta particle in a magnetic field",
+      "d": "the beta particle is deflected more than the alpha particle in a magnetic field"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "39",
+    "question": "One of the properties of gamma rays is that they are?",
+    "options": {
+      "a": "neutral",
+      "b": "massive",
+      "c": "positively charged",
+      "d": "negatively charged"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "40",
+    "question": "Which type of radiation does not NOT originate within the nucleus?",
+    "options": {
+      "a": "alpha",
+      "b": "beta",
+      "c": "gamma",
+      "d": "x-rays"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "41",
+    "question": "An aluminum foil is placed across a beam of radiation from a radioactive source. Which of the following types of radiation will be stopped by it?",
+    "options": {
+      "a": "alpha and beta particles",
+      "b": "alpha and gamma particles",
+      "c": "beta and gamma particles",
+      "d": "gamma particles only"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "42",
+    "question": "Which of the following metals will provide the greatest shield against ionizing radiation",
+    "options": {
+      "a": "Iron",
+      "b": "Manganese",
+      "c": "Alminium",
+      "d": "Lead"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "43",
+    "question": "Which of the following elements is the best absorber of X-rays?",
+    "options": {
+      "a": "hydrogen",
+      "b": "oxygen",
+      "c": "calcium",
+      "d": "lead"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "44",
+    "question": "Natural radioactivity consist of the emission of",
+    "options": {
+      "a": "alpha  particles and beta rays",
+      "b": "alpha particles and X-rays",
+      "c": "alpha particle, beta particle and gamma rays",
+      "d": "gamma rays and X- rays"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "45",
+    "question": "Natural radioactivity consists of the emission of",
+    "options": {
+      "a": "\u03b1 -particle and \u03b2 rays",
+      "b": "\u03b1 -particle and X-rays",
+      "c": "\u03b3 -rays and X-rays",
+      "d": "\u03b1 -particle, \u03b2 rays and \u03b3 -rays",
+      "e": "\u03b1 -particle, \u03b2 rays, \u03b3 -rays and X-rays"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "46",
+    "question": "Natural radioactivity is the random spontaneous disintegration of the nuclei of heavy isotopes of certain elements with the emission of",
+    "options": {
+      "a": "\u03b1, \u03b2 and X-rays",
+      "b": "\u03b1,\u00a0\u03b2\u00a0and\u00a0\u03b3-rays",
+      "c": "X,\u00a0\u03b1 and \u03b3-ray",
+      "d": "\u03b2, \u03b3\u00a0and X-rays"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "47",
+    "question": "One of the features of the fission process is that",
+    "options": {
+      "a": "It leads to chain reaction",
+      "b": "Its products are radioactive",
+      "c": "Neutrons are not released",
+      "d": "The sum of the masses of the reactants equals the sum of the masses of the products."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "48",
+    "question": " _92^235?U +  _0^1?n \u27f6 _56^144?Ba +  _36^90?Kr  + 2X. In the above reaction X is",
+    "options": {
+      "a": "electron",
+      "b": "neutron",
+      "c": "neutrino",
+      "d": "proton."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "49",
+    "question": "Na  +  X \u27f6  _9^20?F  +  _2^4?He.  What particle is X in the reaction above",
+    "options": {
+      "a": "Beta",
+      "b": "Gamma",
+      "c": "Alpha",
+      "d": "Neutron"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "50",
+    "question": "When an atom undergoes a beta decay, the atomic number of the nucleus",
+    "options": {
+      "a": "decreases by one",
+      "b": "increases by one",
+      "c": "becomes zero",
+      "d": "remains unchanged."
+    },
+    "correct": "b"
+  },
+  {
+    "id": "51",
+    "question": "Which of the following are True for\u00a0\u03b1-decay.",
+    "options": {
+      "a": "I and II only",
+      "b": "II and III only",
+      "c": "I and III only",
+      "d": "I, II, and III only"
+    },
+    "correct": "a",
+    "statement": [
+      "mass number, decrease by four.",
+      "Atomic number decreases by two.",
+      "mass number does not change."
+    ]
+  },
+  {
+    "id": "52",
+    "question": "An element of nucleon number P and atomic number Q emits an alpha particle from its nucleus. The resultant numbers of the new element formed are respectively",
+    "options": {
+      "a": "P - 4 and Q + 2",
+      "b": "P - 4 and Q \u2013 2",
+      "c": "P + 2 and Q + 2",
+      "d": "P + 2 and Q \u2013 2"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "53",
+    "question": "When _82^210?Pb decays to form _80^206?Pb, it emits",
+    "options": {
+      "a": "an alpha particle",
+      "b": "one beta particle",
+      "c": "one alpha particle and one beta particle",
+      "d": "two alpha and two beta particles."
+    },
+    "correct": "a"
+  },
+  {
+    "id": "54",
+    "question": "During the nuclear reactions described by  _92^235?U\u27f6 _93^235?X\u27f6 _91^231?Y  the particles emitted are respectively",
+    "options": {
+      "a": "\u03b2 and \u03b2",
+      "b": "\u03b2 and \u03b1",
+      "c": "\u03b1 and \u03b2",
+      "d": "\u03b1 and \u03b1"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "55",
+    "question": "In a radioactive series _92^235?L\u2192_92^235?M\u2192_90^231?N\u2192_91^231?\u2205  The particles emitted are respectively",
+    "options": {
+      "a": "\u03b2,\u03b2, \u03b1",
+      "b": "\u03b1,\u03b3,\u03b2",
+      "c": "\u03b3,\u03b1,\u03b2",
+      "d": "\u03b1,\u03b1,\u03b2"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "56",
+    "question": "A certain radioisotope of\u00a0 _92^235?U\u00a0emits four alpha particles and three beta particles. The mass number and the atomic number of the resulting elements respectively are",
+    "options": {
+      "a": "219 and 87",
+      "b": "84 and 223",
+      "c": "223 and 87",
+      "d": "219 and 81"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "57",
+    "question": "The radioisotope _92^235?U decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?",
+    "options": {
+      "a": "215 and 88",
+      "b": "91 and 227",
+      "c": "227 and 91",
+      "d": "92 and 238"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "58",
+    "question": "Eight alpha decays and six beta decays are necessary before an atom of _92^238?U\u00a0achieves stability. The final product in the chain has an atomic number of",
+    "options": {
+      "a": "70",
+      "b": "78",
+      "c": "82",
+      "d": "90"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "59",
+    "question": "An element X of an atomic number 88 and mass number 226 decays to form an element Z by emitting two beta particles and an alpha particle. Z is represented by",
+    "options": {
+      "a": "_82^222?Z",
+      "b": "_88^222?Z",
+      "c": "_86^226?Z",
+      "d": "_80^222?Z"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "60",
+    "question": "The particles emitted when   _19^39?K   decay to _19^39?K is",
+    "options": {
+      "a": "gamma",
+      "b": "beta",
+      "c": "electron",
+      "d": "alpha"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "61",
+    "question": "Which of the following is the correct definition of 'half-life'?",
+    "options": {
+      "a": "The average life-time of a radioactive material",
+      "b": "The time it takes a radioactive material to decay to half of its original quantity",
+      "c": "Half the period a radioactive material decays completely",
+      "d": "Half of the decay constant"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "62",
+    "question": "After three half lifes, the fraction of a radioactive material that has decayed is",
+    "options": {
+      "a": "1/8",
+      "b": "1/3",
+      "c": "2/3",
+      "d": "7/8"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "63",
+    "question": "A radioactive sample initially contains N atoms.  After three half-lives, the number of atoms that have disintegrated is",
+    "options": {
+      "a": "7N/8",
+      "b": "3N/88",
+      "c": "5N/8",
+      "d": "N/8"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "64",
+    "question": "If the decay constant of a radioactive substance is 0.231s-1 , the half-life is",
+    "options": {
+      "a": "3.00s",
+      "b": "0.12s",
+      "c": "0.33s",
+      "d": "1.50s"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "65",
+    "question": "In 90 seconds, the mass of a radioactive element reduces to 1/16 of its original value. Determine the half- life of the element.",
+    "options": {
+      "a": "15.0s",
+      "b": "18.0s",
+      "c": "22.5s",
+      "d": "30.0s"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "66",
+    "question": "If the fraction of the atoms of a radioactive substance left after 120 years is 1/64 what is the half life of the material?",
+    "options": {
+      "a": "20 years",
+      "b": "10 years",
+      "c": "2 years",
+      "d": "24 years"
+    },
+    "correct": "a"
+  },
+  {
+    "id": "67",
+    "question": "A radioactive isotope has a half-life of 8 days. What fraction of the atoms will remain after 72 days?",
+    "options": {
+      "a": "1.736 x 10-3",
+      "b": "3.472 x 10-3",
+      "c": "1.953 x 10-3",
+      "d": "3.906 x 10-3"
+    },
+    "correct": "c"
+  },
+  {
+    "id": "68",
+    "question": "A radioactive element has a half life of 4 days. The fraction that has decayed in 16 days is?",
+    "options": {
+      "a": "15/16",
+      "b": "1/16",
+      "c": "3/4",
+      "d": "\u00bc"
+    },
+    "correct": "b"
+  },
+  {
+    "id": "69",
+    "question": "The half-life of a radio-active element is 9 days, what fraction of atoms has decayed in 36 days?",
+    "options": {
+      "a": "1/16",
+      "b": "1/4",
+      "c": "1/2",
+      "d": "15/16"
+    },
+    "correct": "d"
+  },
+  {
+    "id": "70",
+    "question": "A piece of radioactive material contains 1000 atoms. If it half life is 20 seconds, the time taken for 125 atoms to remain is",
+    "options": {
+      "a": "20s",
+      "b": "40s",
+      "c": "60s",
+      "d": "80s"
+    },
+    "correct": "c"
+  }
+]
