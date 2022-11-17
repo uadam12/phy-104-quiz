@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/phy-104-quiz/static/css/main.073c9b0a.css",
-    "main.js": "/phy-104-quiz/static/js/main.3e71f89b.js",
+    "main.css": "/phy-104-quiz/static/css/main.3ecf3825.css",
+    "main.js": "/phy-104-quiz/static/js/main.7ba0e141.js",
     "static/js/787.b7e47034.chunk.js": "/phy-104-quiz/static/js/787.b7e47034.chunk.js",
-    "static/media/logo.svg": "/phy-104-quiz/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/phy-104-quiz/index.html",
-    "main.073c9b0a.css.map": "/phy-104-quiz/static/css/main.073c9b0a.css.map",
-    "main.3e71f89b.js.map": "/phy-104-quiz/static/js/main.3e71f89b.js.map",
+    "main.3ecf3825.css.map": "/phy-104-quiz/static/css/main.3ecf3825.css.map",
+    "main.7ba0e141.js.map": "/phy-104-quiz/static/js/main.7ba0e141.js.map",
     "787.b7e47034.chunk.js.map": "/phy-104-quiz/static/js/787.b7e47034.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.3e71f89b.js"
+    "static/css/main.3ecf3825.css",
+    "static/js/main.7ba0e141.js"
   ]
 }
