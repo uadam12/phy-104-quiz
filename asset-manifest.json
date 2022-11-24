@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phy-104-quiz/static/css/main.3ecf3825.css",
-    "main.js": "/phy-104-quiz/static/js/main.169982e4.js",
+    "main.js": "/phy-104-quiz/static/js/main.daa2774f.js",
     "static/js/787.b7e47034.chunk.js": "/phy-104-quiz/static/js/787.b7e47034.chunk.js",
     "index.html": "/phy-104-quiz/index.html",
     "main.3ecf3825.css.map": "/phy-104-quiz/static/css/main.3ecf3825.css.map",
-    "main.169982e4.js.map": "/phy-104-quiz/static/js/main.169982e4.js.map",
+    "main.daa2774f.js.map": "/phy-104-quiz/static/js/main.daa2774f.js.map",
     "787.b7e47034.chunk.js.map": "/phy-104-quiz/static/js/787.b7e47034.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3ecf3825.css",
-    "static/js/main.169982e4.js"
+    "static/js/main.daa2774f.js"
   ]
 }
