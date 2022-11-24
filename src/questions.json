@@ -1,5 +1,16 @@
 [
   {
+    "id": "0",
+    "question": "Which of the following symbolic represantation is correct for an atom X with 22 electrons and 43 neutrons?",
+    "options": {
+       "a": "q0a.png",
+       "b": "q0b.png",
+       "c": "q0c.png",
+       "d": "q0d.png"
+    },
+    "correct": "d"
+  },
+  {
     "id": "1",
     "question": "The functional difference between a lens and a mirror is that a lens",
     "options": {
@@ -395,7 +406,7 @@
   },
   {
     "id": "32",
-    "question": "The number of neutrons contained in the nucleus\u00a0_92^238?U\u00a0is",
+    "question": "The number of neutrons contained in the nucleus q32.png is",
     "options": {
       "a": "92",
       "b": "146",
@@ -406,7 +417,7 @@
   },
   {
     "id": "33",
-    "question": "What is the number of neutrons in the Uranium isotope _92^238?X?",
+    "question": "What is the number of neutrons in the Uranium isotope q33.png?",
     "options": {
       "a": "92",
       "b": "146",
@@ -581,7 +592,7 @@
   },
   {
     "id": "48",
-    "question": " _92^235?U +  _0^1?n \u27f6 _56^144?Ba +  _36^90?Kr  + 2X. In the above reaction X is",
+    "question": "q48.png. In the above reaction X is",
     "options": {
       "a": "electron",
       "b": "neutron",
@@ -592,7 +603,7 @@
   },
   {
     "id": "49",
-    "question": "Na  +  X \u27f6  _9^20?F  +  _2^4?He.  What particle is X in the reaction above",
+    "question": "q49.png.  What particle is X in the reaction above",
     "options": {
       "a": "Beta",
       "b": "Gamma",
@@ -641,7 +652,7 @@
   },
   {
     "id": "53",
-    "question": "When _82^210?Pb decays to form _80^206?Pb, it emits",
+    "question": "When q53.png, it emits",
     "options": {
       "a": "an alpha particle",
       "b": "one beta particle",
@@ -652,7 +663,7 @@
   },
   {
     "id": "54",
-    "question": "During the nuclear reactions described by  _92^235?U\u27f6 _93^235?X\u27f6 _91^231?Y  the particles emitted are respectively",
+    "question": "During the nuclear reactions described by q54.png the particles emitted are respectively",
     "options": {
       "a": "\u03b2 and \u03b2",
       "b": "\u03b2 and \u03b1",
@@ -663,7 +674,7 @@
   },
   {
     "id": "55",
-    "question": "In a radioactive series _92^235?L\u2192_92^235?M\u2192_90^231?N\u2192_91^231?\u2205  The particles emitted are respectively",
+    "question": "In a radioactive series q55.png The particles emitted are respectively",
     "options": {
       "a": "\u03b2,\u03b2, \u03b1",
       "b": "\u03b1,\u03b3,\u03b2",
@@ -674,7 +685,7 @@
   },
   {
     "id": "56",
-    "question": "A certain radioisotope of\u00a0 _92^235?U\u00a0emits four alpha particles and three beta particles. The mass number and the atomic number of the resulting elements respectively are",
+    "question": "A certain radioisotope of \u00a0 q55.png \u00a0emits four alpha particles and three beta particles. The mass number and the atomic number of the resulting elements respectively are",
     "options": {
       "a": "219 and 87",
       "b": "84 and 223",
@@ -685,7 +696,7 @@
   },
   {
     "id": "57",
-    "question": "The radioisotope _92^235?U decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?",
+    "question": "The radioisotope q57.png decays by emitting two alpha particles, three beta particles and a gamma ray. What is the mass and atomic number of the resulting element?",
     "options": {
       "a": "215 and 88",
       "b": "91 and 227",
@@ -696,7 +707,7 @@
   },
   {
     "id": "58",
-    "question": "Eight alpha decays and six beta decays are necessary before an atom of _92^238?U\u00a0achieves stability. The final product in the chain has an atomic number of",
+    "question": "Eight alpha decays and six beta decays are necessary before an atom of q58.png \u00a0achieves stability. The final product in the chain has an atomic number of",
     "options": {
       "a": "70",
       "b": "78",
@@ -709,16 +720,16 @@
     "id": "59",
     "question": "An element X of an atomic number 88 and mass number 226 decays to form an element Z by emitting two beta particles and an alpha particle. Z is represented by",
     "options": {
-      "a": "_82^222?Z",
-      "b": "_88^222?Z",
-      "c": "_86^226?Z",
-      "d": "_80^222?Z"
+      "a": "q59a.png",
+      "b": "q59b.png",
+      "c": "q59c.png",
+      "d": "q59d.png"
     },
     "correct": "b"
   },
   {
     "id": "60",
-    "question": "The particles emitted when   _19^39?K   decay to _19^39?K is",
+    "question": "The particles emitted when q60.png is",
     "options": {
       "a": "gamma",
       "b": "beta",

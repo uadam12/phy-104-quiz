@@ -1,3 +1,5 @@
+import { text } from "../text.js";
+
 export const Options = props => {
   const data = props.quiz.getOptions();
   const options = Object.keys(data.options).map(opt => {
@@ -6,7 +8,7 @@ export const Options = props => {
      
      if(opt === data.choosen)
 	item += " active";
-     return <li onClick={()=> props.quiz.selectAnswer(opt)} className={item}>{option}</li>;
+     return <li onClick={()=> props.quiz.selectAnswer(opt)} className={item}>{ text(option) }</li>;
   }); 
   return (<ol type="A" className="list-group text-start">
     {options}
