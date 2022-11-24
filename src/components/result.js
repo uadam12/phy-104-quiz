@@ -1,4 +1,5 @@
 import { Question } from "./question.js";
+import { text } from "../text.js";
 
 export const Result = props => {
   const result = props.quiz.result();
@@ -10,8 +11,8 @@ export const Result = props => {
   const correction = result.wrongs.map(q => (<div>
     <hr />
     <Question data={q.question} />
-    <p>Your answer: <span className="text-danger">{q.answer}</span></p>
-    <p>Correct answer: <span className="text-success">{q.correct}</span></p>
+    <p>Your answer: <span className="text-danger">{ text(q.answer) }</span></p>
+    <p>Correct answer: <span className="text-success">{ text(q.correct) }</span></p>
   </div>));
   
   return (<div className='card m-3'>
