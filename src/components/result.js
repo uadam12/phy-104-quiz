@@ -21,6 +21,8 @@ export const Result = props => {
     <div className="card-body text-start">
 	<h3 className="text-info">You score: {score}%</h3>
 	<p>You answered {corrects} question(s) correctly, {wrongs} question(s) wrongly and skip {skips} question(s).</p>
+	{score >= 40?
+          <p className="text-success">Passed</p>:           <p className="text-danger">Failed</p>           }
 	
 	<h2 className="text-center text-success">Correction</h2>
 	{correction}
