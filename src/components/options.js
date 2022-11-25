@@ -8,7 +8,7 @@ export const Options = props => {
      
      if(opt === data.choosen)
 	item += " active";
-     return <li onClick={()=> props.quiz.selectAnswer(opt)} className={item}>{ text(option) }</li>;
+     return <li onClick={()=> props.quiz.selectAnswer(opt)} className={item}>{opt.toUpperCase()}. { text(option) }</li>;
   }); 
   return (<ol type="A" className="list-group text-start">
     {options}
